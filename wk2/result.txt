@@ -1,0 +1,48 @@
+size of unsigned long is 4
+size of unsigned int is 4
+size of unsigned long long is 8
+size of unsigned short is 2
+
+size of signeds long is 4
+size of signed int is 4
+size of signed long long is 8
+size of signed short 2
+
+size of long is 4
+size of int is 4
+size of long long is 8
+size of short is 2
+
+size of float is 4
+size of double is 8
+
+the location of unsigned long is 0xbfb1c01c
+the location of unsigned int is 0xbfb1c018
+the location of unsigned long long is 0xbfb1c010
+the location of unsigned short is 0xbfb1c00e
+
+the location of signed long is 0xbfb1c008
+the location of signed int is 0xbfb1c004
+the location of signed long long is 0xbfb1bff8
+the location of signed short is 0xbfb1bff6
+
+the location of long is 0xbfb1bff0
+the location of int is 0xbfb1bfec
+the location of long long is 0xbfb1bfe0
+the location of short is 0xbfb1bfde
+
+the location of float is 0xbfb1bfd8
+the location of double is 0xbfb1bfd0
+
+they are stored the number of bytes they are apart counting down
+
+underflowing:
+   unsigned long = 4294967295
+   unsigned int  = 4294967295
+   unsigned long long = 18446744073709551615
+   unsigned short = 65535
+
+   signed long = error message
+   signed int  = error message
+   signed long long = error message
+   signed short = error message
